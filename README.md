@@ -6,7 +6,7 @@ Change the settings as your wish.
 
 Fix the project.
 
-Integrate with your cliend mod.
+Integrate with your client mod.
 
 Compile the project as a dll file.
 
