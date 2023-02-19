@@ -1,1 +1,1 @@
-# KVRCLoader
+# VRCLoader
